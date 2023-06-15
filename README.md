@@ -1,2 +1,2 @@
-# HTML_prac2
+# HTML_Prac2
 Created with CodeSandbox
